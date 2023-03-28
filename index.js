@@ -9,6 +9,7 @@ function OpeningCeremony(race100M, longJump, highJump, awardCermony, party) {
     race100M(score, longJump, highJump, awardCermony);
   }, 1000);
 }
+// Race100M function start...
 
 function Race100M(score, longJump, highJump, awardCermony, party) {
   setTimeout(function () {
